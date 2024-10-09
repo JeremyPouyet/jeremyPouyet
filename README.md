@@ -24,5 +24,6 @@ I'm a French developer passionate about experimenting with different technologie
 
 <a href="https://www.linkedin.com/in/jérémy-pouyet-b8b3407a"><img src="https://img.shields.io/badge/LinkedIn-Jérémy_Pouyet-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/2447471/jérémy-pouyet"><img src="https://img.shields.io/badge/Stack_Overflow-Jérémy_Pouyet-orange?style=flat&logo=stackoverflow"></a>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=jeremyPouyet)
 
 [^1]: Sorry, non-French speakers, it's currently only in French, but I may add other languages in the future
